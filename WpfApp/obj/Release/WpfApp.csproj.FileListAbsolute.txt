@@ -1,0 +1,12 @@
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\bin\Release\WpfApp.exe
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\bin\Release\WpfApp.pdb
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp.csprojResolveAssemblyReference.cache
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\MainWindow.g.cs
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp_MarkupCompile.cache
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp_MarkupCompile.lref
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\MainWindow.baml
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp.g.resources
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp.Properties.Resources.resources
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp.csproj.GenerateResource.Cache
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp.exe
+C:\Users\QMZ\Documents\Visual Studio 2015\Projects\C#,C++\WpfApp\obj\Release\WpfApp.pdb
